@@ -1,0 +1,102 @@
+2018-05-07 11:08:04 [INFO] Starting minecraft server version 1.4.6
+2018-05-07 11:08:04 [INFO] Loading properties
+2018-05-07 11:08:04 [INFO] Default game type: SURVIVAL
+2018-05-07 11:08:04 [INFO] Generating keypair
+2018-05-07 11:08:05 [INFO] Starting Minecraft server on *:25565
+2018-05-07 11:08:05 [INFO] This server is running CraftBukkit version git-Spigot-unknown (MC: 1.4.6) (Implementing API version 1.4.6-R0.4-SNAPSHOT)
+2018-05-07 11:08:05 [INFO] --------Setting up Storm Configuration--------
+2018-05-07 11:08:05 [INFO]     Storm Type: strong-electrical-storm
+2018-05-07 11:08:05 [INFO]         Chance: 5
+2018-05-07 11:08:05 [INFO]         Lightning Delay Ticks: 10
+2018-05-07 11:08:05 [INFO]         Lightning Random Delay Ticks: 20
+2018-05-07 11:08:05 [INFO]     Storm Type: electrical-storm
+2018-05-07 11:08:05 [INFO]         Chance: 15
+2018-05-07 11:08:05 [INFO]         Lightning Delay Ticks: 40
+2018-05-07 11:08:05 [INFO]         Lightning Random Delay Ticks: 150
+2018-05-07 11:08:05 [INFO]     Storm Type: strong-thunderstorm
+2018-05-07 11:08:05 [INFO]         Chance: 30
+2018-05-07 11:08:05 [INFO]         Lightning Delay Ticks: 60
+2018-05-07 11:08:05 [INFO]         Lightning Random Delay Ticks: 250
+2018-05-07 11:08:05 [INFO]     Storm Type: thunderstorm
+2018-05-07 11:08:05 [INFO]         Chance: 50
+2018-05-07 11:08:05 [INFO]         Lightning Delay Ticks: 100
+2018-05-07 11:08:05 [INFO]         Lightning Random Delay Ticks: 500
+2018-05-07 11:08:05 [INFO]     Storm Type: weak-thunderstorm
+2018-05-07 11:08:05 [INFO]         Chance: 75
+2018-05-07 11:08:05 [INFO]         Lightning Delay Ticks: 300
+2018-05-07 11:08:05 [INFO]         Lightning Random Delay Ticks: 1000
+2018-05-07 11:08:05 [INFO]     Storm Type: rainstorm
+2018-05-07 11:08:05 [INFO]         Chance: 100
+2018-05-07 11:08:05 [INFO]         Lightning Delay Ticks: 500
+2018-05-07 11:08:05 [INFO]         Lightning Random Delay Ticks: 2000
+2018-05-07 11:08:05 [INFO] --------Finished Storm Configuration--------
+2018-05-07 11:08:05 [INFO] Preparing level "world"
+2018-05-07 11:08:05 [INFO] -------------- Spigot ----------------
+2018-05-07 11:08:05 [INFO] -------- World Settings For [default] --------
+2018-05-07 11:08:05 [INFO] Growth Per Chunk: 650
+2018-05-07 11:08:05 [INFO] Item Merge Radius: 3.5
+2018-05-07 11:08:05 [INFO] Experience Merge Radius: 3.5
+2018-05-07 11:08:05 [INFO] Random Lighting Updates: false
+2018-05-07 11:08:05 [INFO] Mob Spawn Range: 4
+2018-05-07 11:08:05 [INFO] Aggregate Ticks: 4
+2018-05-07 11:08:05 [INFO] Wheat Growth Modifier: 100
+2018-05-07 11:08:05 [INFO] Cactus Growth Modifier: 100
+2018-05-07 11:08:05 [INFO] Melon Growth Modifier: 100
+2018-05-07 11:08:05 [INFO] Pumpkin Growth Modifier: 100
+2018-05-07 11:08:05 [INFO] Sugar Growth Modifier: 100
+2018-05-07 11:08:05 [INFO] Tree Growth Modifier: 100
+2018-05-07 11:08:05 [INFO] Mushroom Growth Modifier: 100
+2018-05-07 11:08:05 [INFO] View distance: 10
+2018-05-07 11:08:05 [INFO] -------------------------------------------------
+2018-05-07 11:08:06 [INFO] -------------- Spigot ----------------
+2018-05-07 11:08:06 [INFO] -------- World Settings For [default] --------
+2018-05-07 11:08:06 [INFO] Growth Per Chunk: 650
+2018-05-07 11:08:06 [INFO] Item Merge Radius: 3.5
+2018-05-07 11:08:06 [INFO] Experience Merge Radius: 3.5
+2018-05-07 11:08:06 [INFO] Random Lighting Updates: false
+2018-05-07 11:08:06 [INFO] Mob Spawn Range: 4
+2018-05-07 11:08:06 [INFO] Aggregate Ticks: 4
+2018-05-07 11:08:06 [INFO] Wheat Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Cactus Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Melon Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Pumpkin Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Sugar Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Tree Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Mushroom Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] View distance: 10
+2018-05-07 11:08:06 [INFO] -------------------------------------------------
+2018-05-07 11:08:06 [INFO] -------------- Spigot ----------------
+2018-05-07 11:08:06 [INFO] -------- World Settings For [default] --------
+2018-05-07 11:08:06 [INFO] Growth Per Chunk: 650
+2018-05-07 11:08:06 [INFO] Item Merge Radius: 3.5
+2018-05-07 11:08:06 [INFO] Experience Merge Radius: 3.5
+2018-05-07 11:08:06 [INFO] Random Lighting Updates: false
+2018-05-07 11:08:06 [INFO] Mob Spawn Range: 4
+2018-05-07 11:08:06 [INFO] Aggregate Ticks: 4
+2018-05-07 11:08:06 [INFO] Wheat Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Cactus Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Melon Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Pumpkin Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Sugar Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Tree Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] Mushroom Growth Modifier: 100
+2018-05-07 11:08:06 [INFO] View distance: 10
+2018-05-07 11:08:06 [INFO] -------------------------------------------------
+2018-05-07 11:08:06 [INFO] Preparing start region for level 0 (Seed: 7394665987669804727)
+2018-05-07 11:08:07 [INFO] Preparing spawn area: 4%
+2018-05-07 11:08:08 [INFO] Preparing spawn area: 12%
+2018-05-07 11:08:09 [INFO] Preparing spawn area: 20%
+2018-05-07 11:08:10 [INFO] Preparing spawn area: 36%
+2018-05-07 11:08:11 [INFO] Preparing spawn area: 48%
+2018-05-07 11:08:12 [INFO] Preparing spawn area: 65%
+2018-05-07 11:08:13 [INFO] Preparing spawn area: 85%
+2018-05-07 11:08:14 [INFO] Preparing start region for level 1 (Seed: 7394665987669804727)
+2018-05-07 11:08:14 [INFO] Preparing spawn area: 0%
+2018-05-07 11:08:15 [INFO] Preparing spawn area: 24%
+2018-05-07 11:08:16 [INFO] Preparing spawn area: 48%
+2018-05-07 11:08:17 [INFO] Preparing spawn area: 73%
+2018-05-07 11:08:18 [INFO] Preparing start region for level 2 (Seed: 7394665987669804727)
+2018-05-07 11:08:18 [INFO] Preparing spawn area: 4%
+2018-05-07 11:08:19 [INFO] Preparing spawn area: 52%
+2018-05-07 11:08:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2018-05-07 11:08:20 [INFO] Done (15.088s)! For help, type "help" or "?"
